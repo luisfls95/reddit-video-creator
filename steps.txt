@@ -1,0 +1,2 @@
+trocar os links por outras coisas e por o link na descrição do video
+garantir que os emojis dão para ser printed e lidos no tts
